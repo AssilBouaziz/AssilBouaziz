@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on   **developing my skills further**
 
-- 🌱 I’m currently learning **Docker, Kubernetes, AWS** 
+- 🌱 I’m currently learning **Docker, Kubernetes, Microsoft Azure** 
 
 - 💬 Ask me about **MERN, Django**
 
