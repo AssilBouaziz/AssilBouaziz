@@ -1,6 +1,6 @@
 <!--- snake -->
 <div align="center">
-  <img  src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  <img  src="https://github.com/AssilBouaziz/snake-game/blob/main/snake.yml"
        alt="snake" /></a>
 </div>
 <h1 align="center">Hi 👋, I'm Assil BOUAZIZ</h1>
