@@ -1,7 +1,7 @@
 <!--- snake -->
-![snake gif](https://github.com/AssilBouaziz/AssilBouaziz/blob/output/github-contribution-grid-snake.gif)
+
 <div align="center">
-  <img  src="![snake gif](https://github.com/AssilBouaziz/AssilBouaziz/blob/output/github-contribution-grid-snake.gif)"
+  <img  src="https://github.com/AssilBouaziz/AssilBouaziz/blob/output/github-contribution-grid-snake.svg"
        alt="snake" /></a>
 </div>
 <h1 align="center">Hi 👋, I'm Assil BOUAZIZ</h1>
