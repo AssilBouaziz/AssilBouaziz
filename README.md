@@ -1,6 +1,6 @@
 <!--- snake -->
 <div align="center">
-  <img  src="https://github.com/AssilBouaziz/snake-game/blob/main/snake.yml"
+  <img  src="https://github.com/AssilBouaziz/AssilBouaziz/blob/output/github-contribution-grid-snake.gif"
        alt="snake" /></a>
 </div>
 <h1 align="center">Hi 👋, I'm Assil BOUAZIZ</h1>
