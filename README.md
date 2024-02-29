@@ -1,4 +1,5 @@
 <!--- snake -->
+![snake gif](https://github.com/AssilBouaziz/AssilBouaziz/blob/output/github-contribution-grid-snake.gif)
 <div align="center">
   <img  src="![snake gif](https://github.com/AssilBouaziz/AssilBouaziz/blob/output/github-contribution-grid-snake.gif)"
        alt="snake" /></a>
