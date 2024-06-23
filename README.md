@@ -10,7 +10,7 @@
   </picture>
 </div>
 <h1 align="center">Hi 👋, I'm Assil BOUAZIZ</h1>
-<h3 align="center">I am an enthusiastic third year engineering student with a passion for learning and growing in fast-paced environments</h3>
+<h3 align="center">I am an enthusiastic DevOps Engineer with a passion for learning and growing in fast-paced environments</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on   **developing my skills further**
