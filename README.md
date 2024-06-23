@@ -15,9 +15,9 @@
 
 - 🔭 I’m currently working on   **developing my skills further**
 
-- 🌱 I’m currently learning **Docker, Kubernetes, Microsoft Azure** 
+- 🌱 I’m currently learning **Terraform, Ansible, Microsoft Azure** 
 
-- 💬 Ask me about **MERN, Django**
+- 💬 Ask me about **Docker, Kubernetes**
 
 - 📫 How to reach me **assil.bouaziz@enis.tn**
 
